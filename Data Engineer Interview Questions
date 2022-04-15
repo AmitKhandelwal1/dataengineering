@@ -1,0 +1,46 @@
+#AIRBNB
+
+1. Write SQL to insert a new date's data into a datestamp-partitioned table using incremental data from the other date partitions.
+2. Analyze some data. Asked some SQL questions (how to use joins, group by, etc)
+3. Java and hive.
+4. ql questions, joins, aggregates, sub queries, windowing.
+5. sql and map reduce
+6. datawarehouse modeling
+7. string handling, complex fizz buzz kind of thing.
+8. 3 sql questions
+9. The questions were about using big data in past projects, implementing models and assessing performance, and putting the models into production in industry settings.
+10. Hackerrank for SQL and Python coding.
+11. 3 SQL questions with standard level of difficulty, nothing overly complex required
+
+
+#Meta
+1. Write a function to return the number of times a character appears in a string. The character can be the empty string.
+2. Complete a function that returns a list containing mismatched words in two strings. The return list can be in any order. I used set to solve this question, but was also asked to verbally explain how I would solve it without using sets.
+3. Given an array containing None values, fill in the array with the most recent None value. If the list starts with None, then don't do anything to it.
+4. Given a dictionary, print the key for nth highest value present in the dict. If there are more than 1 record present for nth highest value then sort the key and print the first one (alphabetically). N can be higher than the number of elements in the dictionary.
+5. Given a list of ints, balance the list so that each int appears equally in the list. Return a dictionary where the key is the int and the value is the count needed to balance the list.
+
+  [1, 1, 2] => {2: 1}
+  [1, 1, 1, 5, 3, 2, 2] => {5: 2, 3: 2, 2: 1}
+ 6. What percent of all products in the grocery chain's catalog are both low fat and recyclable?
+ 7. Write a query that returns product_family, units_sold, percentage of promoted.
+ 8. Write a query that returns percentage of unsold product_category.
+ 9. Leetcode easy for Python and medium-hard for SQL 
+ 10. Window Functions and joins in sql
+ 11. Write a function to count the number of times each character appears in a string and rewrite the string in that format. Eg. "I am back." should become "i1 2a2m1b1c1k1.1"
+ 12. Match all words in a document against an name dictionary and anonymize them using a hash.
+ 13. SQL questions: lots of where/group by/having and subqueries. Lots of somewhat tricky joins, one required a self join.
+ 
+ 
+ #Interview Experience: 
+ 1. applied online, mostly have three rounds, one with recruiter just go over the process and anwer questions, one for coding with sql python, one is onsite with 4 rounds mixed of coding, product sense, design a little bit
+ 2. Phone (python, sql) - I did 3 problems from each of them with some help from the interviewer
+    Onsite
+     behavioral
+     data model (product sense + data model + sql)
+     ETL1 (product sense + sql + python dict)
+     ETL2 (product sense + sql + python streaming/dict)
+3. SQL : You should be strong with SQL. Focus on efficiency
+   Python : Mostly data manipulation with stacks, queues, dictionaries etc.
+4. Various scenarios were given and I was asked to write sql statements for that and the same was with python
+5. 
